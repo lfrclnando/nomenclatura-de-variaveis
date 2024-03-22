@@ -5,7 +5,9 @@
 ## 💻 Projeto
 
 Desafio de Nomenclatura de Variáveis <br>
-Desafio de Nomenclatura de Booleanos
+Desafio de Nomenclatura de Booleanos <br>
+Desafio de Causa vs Efeito <br>
+Desafio de Código em Inglês
 
 ## 📝 Licença
 
