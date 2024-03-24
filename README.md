@@ -7,7 +7,8 @@
 Desafio de Nomenclatura de Variáveis <br>
 Desafio de Nomenclatura de Booleanos <br>
 Desafio de Causa vs Efeito <br>
-Desafio de Código em Inglês
+Desafio de Código em Inglês <br>
+Desafio de Regras em Condicionais
 
 ## 📝 Licença
 
