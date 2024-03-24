@@ -1,5 +1,5 @@
 function lookForUpdades() {}
 
-setInterval(lookForUpdades, 60 * 30 * 1000)
+setInterval(lookForUpdades, 60 * 30 * 1000) // Checagem feita a cada (30) trinta minutos
 
-function calculateDiscount(price, discount) {}
+function calculateDiscount(priceInCents, discountInPercent) {}
